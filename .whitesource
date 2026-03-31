@@ -1,0 +1,18 @@
+{
+  "scanSettings": {
+    "baseBranches": []
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "displayMode": "diff",
+    "useMendCheckNames": true
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    }
+  }
+}
